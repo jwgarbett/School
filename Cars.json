@@ -1,0 +1,167 @@
+[
+  {
+    "ID": "ToyotaCorolla",
+    "PRODUCTNAME": "Corolla",
+    "GRAPHICNAME": "Corolla.jpg",
+    "COSTPRICE": "14460",
+    "MSRP": "19450",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "The Toyota Corolla has been the go-to car for Canadians for many years. Comfortable seating, stylish design, all at an affordable price.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "ToyotaCamry",
+    "PRODUCTNAME": "Camry",
+    "GRAPHICNAME": "Camry.jpg",
+    "COSTPRICE": "22500",
+    "MSRP": "22750",
+    "QTYONHAND": "8",
+    "QTYONBACKORDER": "5",
+    "DESCRIPTION": "The Toyota Camry has been the top selling vehicle in North America for 20 out of the past 22 years, and there is a reason for that. Roomy interior and fantastic design choices make the Toyota Camry the best in North America.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "ToyotaRav4",
+    "PRODUCTNAME": "Rav4",
+    "GRAPHICNAME": "Rav4.jpg",
+    "COSTPRICE": "25800",
+    "MSRP": "28990",
+    "QTYONHAND": "7",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "The Toyota Rav4 is a vehicle for those who want to drive to work on the weedays and drive offroad on the weekends.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "Toyota4Runner",
+    "PRODUCTNAME": "4Runner",
+    "GRAPHICNAME": "4Runner.jpg",
+    "COSTPRICE": "39000",
+    "MSRP": "47550",
+    "QTYONHAND": "6",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "The Toyota 4Runner is the bnest choice for those who want to explore what the wild has to offer. Travel off-road with confidence.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "ToyotaSupra",
+    "PRODUCTNAME": "Supra",
+    "GRAPHICNAME": "Supra.jpg",
+    "COSTPRICE": "54320",
+    "MSRP": "68460",
+    "QTYONHAND": "1",
+    "QTYONBACKORDER": "3",
+    "DESCRIPTION": "The Toyota Supra has made a return. Power, speed, and ingenious design has revamped the Supra into a world class car for the modern age.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "HondaCivic",
+    "PRODUCTNAME": "Civic",
+    "GRAPHICNAME": "Civic.jpg",
+    "COSTPRICE": "20330",
+    "MSRP": "25370",
+    "QTYONHAND": "0",
+    "QTYONBACKORDER": "8",
+    "DESCRIPTION": "The Honda Civic has been a top choice for consumers for many years. Comfort and reliability, at a price that you can afford.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "HondaAccord",
+    "PRODUCTNAME": "Accord",
+    "GRAPHICNAME": "Accord.jpg",
+    "COSTPRICE": "28000",
+    "MSRP": "33670",
+    "QTYONHAND": "2",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "The Honda Accord is for those who want to travel with more room but with the dependability you expect from a Honda.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "HondaCRV",
+    "PRODUCTNAME": "CR-V",
+    "GRAPHICNAME": "CR-V.jpg",
+    "COSTPRICE": "25550",
+    "MSRP": "31470",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "The Honda CR-V is a larger, upgraded version of the HR-V. Ready to handle whatever the driver wants to do.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "HondaHRV",
+    "PRODUCTNAME": "HR-V",
+    "GRAPHICNAME": "HR-V.jpg",
+    "COSTPRICE": "21230",
+    "MSRP": "26200",
+    "QTYONHAND": "6",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "The Honda HR-V is designed for drivers who want more leg room and storage space than what is offered in the Civic or Accord.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "HondaPilot",
+    "PRODUCTNAME": "Pilot",
+    "GRAPHICNAME": "Pilot.jpg",
+    "COSTPRICE": "23050",
+    "MSRP": "46920",
+    "QTYONHAND": "5",
+    "QTYONBACKORDER": "5",
+    "DESCRIPTION": "Designed for the family on the move, the Honda Pilot is a spacious, adventure driven, vehicle for the entire family.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "Mazda3",
+    "PRODUCTNAME": "3",
+    "GRAPHICNAME": "3.jpg",
+    "COSTPRICE": "18500",
+    "MSRP": "21150",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "1",
+    "DESCRIPTION": "The Mazda 3 is the standard sedan that is anything but ordinary. Speed, power, style, and more, the Mazda 3 embodies the tagline. Zoom Zoom.",
+    "BRAND": "Mazda"
+  },
+  {
+    "ID": "MazdaCX5",
+    "PRODUCTNAME": "CX-5",
+    "GRAPHICNAME": "CX-50.jpg",
+    "COSTPRICE": "22500",
+    "MSRP": "26250",
+    "QTYONHAND": "6",
+    "QTYONBACKORDER": "3",
+    "DESCRIPTION": "The Mazda CX-5 was made for the family who wants to travel in comfort and style. With plenty of room for the family, and upgrades options, the CX-5 has everything you need.",
+    "BRAND": "Mazda"
+  },
+  {
+    "ID": "Mazda6",
+    "PRODUCTNAME": "6",
+    "GRAPHICNAME": "6.jpg",
+    "COSTPRICE": "20500",
+    "MSRP": "24475",
+    "QTYONHAND": "9",
+    "QTYONBACKORDER": "0",
+    "DESCRIPTION": "The Mazda 6 is the larger version of the Mazda 3. More power, storage, and leg room, the Mazda 6 is the sedan for those who cherish comfort and style.",
+    "BRAND": "Mazda"
+  },
+  {
+    "ID": "MazdaCX9",
+    "PRODUCTNAME": "CX-9",
+    "GRAPHICNAME": "CX-9.jpg",
+    "COSTPRICE": "30250",
+    "MSRP": "35360",
+    "QTYONHAND": "4",
+    "QTYONBACKORDER": "5",
+    "DESCRIPTION": "The Mazda CX-9 was designed for the family who wants to take the extended family on a road trip. Plenty of space, entertainment options, and power, the CX-9 is ready to take the entire family anywhere.",
+    "BRAND": "Mazda"
+  },
+  {
+    "ID": "MazdaCX50",
+    "PRODUCTNAME": "CX-50",
+    "GRAPHICNAME": "CX-50.jpg",
+    "COSTPRICE": "22650",
+    "MSRP": "26800",
+    "QTYONHAND": "3",
+    "QTYONBACKORDER": "2",
+    "DESCRIPTION": "The brand new Mazda CX-50 is the ultimate offroad vehicle from Mazda. Designed to handle the difficult terrain, the CX-50 will take you to, from, and through all adventures.",
+    "BRAND": "Mazda"
+  }
+]
